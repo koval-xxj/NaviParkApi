@@ -1,0 +1,6 @@
+
+/logs/*
+!/logs/README.md
+/nbproject/*
+/includes/config/*.dat
+/db_sql/*.bak
